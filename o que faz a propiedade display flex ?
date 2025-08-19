@@ -1,1 +1,2 @@
 A propriedade CSS display: flex; transforma um elemento em um "flex container" (container flexível), permitindo que seus elementos filhos sejam organizados e alinhados automaticamente em uma linha ou coluna, conforme o definido. Isso cria um layout flexível que se adapta bem a diferentes tamanhos de tela.
+document.getElemtnByld() serve para selecionar e retornar um elemento HTML específico da página pelo seu atributo "id". Ou seja, ele busca no documento o elemento que possui o ID informado como parâmetro e retorna uma referência para esse elemento
