@@ -1,0 +1,1 @@
+A propriedade CSS display: flex; transforma um elemento em um "flex container" (container flexível), permitindo que seus elementos filhos sejam organizados e alinhados automaticamente em uma linha ou coluna, conforme o definido. Isso cria um layout flexível que se adapta bem a diferentes tamanhos de tela.
